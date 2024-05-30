@@ -1,0 +1,11 @@
+Order of size:
+  double
+  float
+  long long int 10^18
+  long int 10^12
+  char
+  int 10^9
+
+cin.ignore() used with getline(cin, str) to input from next line
+
+string operation big no.
